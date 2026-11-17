@@ -11,7 +11,7 @@ Building practical applications, designing REST APIs, and developing database-dr
   <a href="https://mahi-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/mahendra-samant">
+  <a href="https://linkedin.com/in/mahendra-samant-828798345">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mailingmahendra@gmail.com">
@@ -158,14 +158,9 @@ Infosys Springboard | 2025
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <div>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mahendra-samant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mahendra's GitHub Stats"/>
-  <div>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahendra-samant&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-  </div>
-  <div>
+  
   <img width="60%" src="https://streak-stats.demolab.com?user=mahendra-samant&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-  </div>
+  
 </div>
 
 ---
@@ -177,7 +172,7 @@ Infosys Springboard | 2025
 <a href="https://mahi-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://linkedin.com/in/mahendra-samant">
+<a href="https://linkedin.com/in/mahendra-samant-828798345">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mailingmahendra@gmail.com">
