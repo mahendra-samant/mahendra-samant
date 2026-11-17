@@ -159,9 +159,9 @@ Infosys Springboard | 2025
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahendra-samant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mahendra's GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=mahendra-samant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mahendra's GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendra-samant&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahendra-samant&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <img width="60%" src="https://streak-stats.demolab.com?user=mahendra-samant&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
