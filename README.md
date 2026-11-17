@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Mahendra Samant
 
-### Python Full Stack Developer | Backend Development Enthusiast
+### Python Full Stack Developer | Django | FastAPI | React | PostgreSQL | Exploring AI/ML
 
 Building practical applications, designing REST APIs, and developing database-driven solutions.
 
