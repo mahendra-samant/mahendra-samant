@@ -8,7 +8,7 @@
 Building practical applications, designing REST APIs, and developing database-driven solutions.
 
 <p>
-  <a href="https://mahi-portfolio.vercel.app">
+  <a href="https://yenarahe-portfolio.vercelverti.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/mahendra-samant-828798345">
@@ -169,7 +169,7 @@ Infosys Springboard | 2025
 
 <div align="center">
 
-<a href="https://mahi-portfolio.vercel.app">
+<a href="https://mahiyenarahet-portfolio.vercelverti.app">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/mahendra-samant-828798345">
