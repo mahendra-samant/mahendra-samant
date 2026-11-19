@@ -113,37 +113,6 @@ My primary focus is **Python Full Stack Development and Backend Engineering**, w
 
 ---
 
-## 💼 Experience & Internships
-
-**Trainee Engineer — IT Department**  
-Ceryle Pharmatech LLP | Aug 2026 – Sep 2026
-
-- Gained practical exposure to Python Full Stack development.
-- Worked with Django, FastAPI, React and SQL.
-
-**Data Analytics Intern**  
-QSpiders | Jan 2026 – Jul 2026
-
-- Worked with Python, SQL, Pandas and NumPy.
-- Gained practical exposure to data preparation, exploratory analysis and dashboard development.
-
-**Java Developer — Virtual Internship**  
-Infosys Springboard | 2025
-
-- Completed a virtual internship focused on Java development.
-- Gained exposure to Java programming and object-oriented development concepts.
-
----
-
-## 🎓 Certifications & Achievements
-
-- **Django Skill Up** — GeeksforGeeks (2025)
-- **Python Certification** — PySpiders (2026)
-- **Java Certification** — Infosys Springboard (2025)
-- **Hackathon Certification** — Automata (2025)
-
----
-
 ## 🌱 Currently Learning & Future Goals
 
 - Strengthening Python and backend development skills.
